@@ -7,3 +7,4 @@ Verify Product Added
 
 Proceed To Checkout
     Click Link  Proceed to checkout (1 item)
+    Wait Until Page Contains    Some text to verify
