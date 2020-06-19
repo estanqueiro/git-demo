@@ -23,7 +23,7 @@ Logged out user should be able to search for products
 
 Logged out user should be able to view a product
     [Documentation]  This is some basic information about the test
-    [Tags]  Smoke
+    [Tags]  Smoke   Products
     Amazon.Search For Products
     Select Product From Search Results
 
