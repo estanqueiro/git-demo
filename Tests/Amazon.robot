@@ -23,13 +23,13 @@ Logged out user should be able to search for products
 
 Logged out user should be able to view a product
     [Documentation]  This is some basic information about the test
-    [Tags]  Smoke   Products    Search
+    [Tags]  Smoke   Products    Search      Checkout
     Amazon.Search For Products
     Select Product From Search Results
 
 Logged out user should be able to add product to cart
     [Documentation]  This is some basic information about the test
-    [Tags]  Smoke   Cart
+    [Tags]  Smoke
     Amazon.Search For Products
     Select Product From Search Results
     Add Product To Cart
